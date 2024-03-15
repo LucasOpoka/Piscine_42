@@ -6,3 +6,4 @@ Code I developed during the January 2024 Piscine at Hive Helsinki
   Project  |  Folder  |  Grade  
 :-------|:-------|:-------:
 Shell00|[Shell00](Shell/Shell00/)|100%
+Shell01|[Shell01](Shell/Shell01/)|100%
